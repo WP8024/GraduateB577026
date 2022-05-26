@@ -5,15 +5,16 @@ GoogleSpreadsheets: https://docs.google.com/spreadsheets/d/1L2FWK8NyCipB0KA-n64m
 
 # 개요
 1. 장르
-캐쥬얼, RTS, 전략
+  :캐쥬얼, RTS, 전략
 2. 컨셉
-3D타일맵 RTS
-2. 플랫폼
-PC window기반
-3. 타겟플레이어
-RTS게임이지만 캐쥬얼한 그래픽과 쉬운 조작법으로 10~20대의 젊은 층을 생각했습니다.
-4. 전체클래스 구성
+  :3D타일맵 RTS
+3. 플랫폼
+  :PC window기반
+4. 타겟플레이어
+  :RTS게임이지만 캐쥬얼한 그래픽과 쉬운 조작법으로 10~20대의 젊은 층을 생각했습니다.
+5. 전체클래스 구성
 
+![전체클래스다이어그램 (1)](https://user-images.githubusercontent.com/37317856/170421666-2b840671-82ec-4bd7-b19a-0919b6e10318.jpg)
 
 # 기술요소
 1. 행동트리

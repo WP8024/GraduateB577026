@@ -1,5 +1,5 @@
 # EraofConquest
-Youtube: https://youtu.be/YVrjGD6Zvns
+Youtube: https://youtu.be/n6ZCHlBLRnc
 
 GoogleSpreadsheets: https://docs.google.com/spreadsheets/d/1L2FWK8NyCipB0KA-n64m0UNP8RZroxDGt7zicYdNjv8/edit#gid=1012642768
 
@@ -15,6 +15,20 @@ GoogleSpreadsheets: https://docs.google.com/spreadsheets/d/1L2FWK8NyCipB0KA-n64m
 5. 전체클래스 구성
 
 ![전체클래스다이어그램 (1)](https://user-images.githubusercontent.com/37317856/170421666-2b840671-82ec-4bd7-b19a-0919b6e10318.jpg)
+
+# 구현내용
+WASD 및 마우스 우클릭 드래그로 화면 이동
+휠스크롤로 줌인 기능
+휠클릭을 통해 화면회전 구현
+
+하단 UI 버튼으로 건축 및 업그레이드 기능
+건축시 타일맵 노드위치에 건물 생성
+
+유닛들을 선택해 지정위치로 이동기능
+
+점령구역을 표시하던 노드에 
+
+
 
 # 기술요소
 1. 행동트리
